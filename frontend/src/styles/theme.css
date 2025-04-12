@@ -1,0 +1,10 @@
+/* // === FILE: /client/src/styles/theme.css === */
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+.dark-theme {
+  background-color: #121212;
+  color: white;
+}
